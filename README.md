@@ -1,5 +1,11 @@
 
-# Installation
+# Setup
+
+## Nest JS installation
+
+`npm i -g @nestjs/cli`
+
+## Project installation
 
 `yarn` or `npm install`
 
