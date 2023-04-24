@@ -22,6 +22,11 @@ export class CatsController {
     return this.catsService.create(createCatDto);
   }
 
+  @Get()
+  findAll(): Cat[] {
+    return this.catsService.findAll();
+  }
+
   @Get(':id')
   @ApiResponse({
     status: 200,
