@@ -1,3 +1,5 @@
+# Tristan Bonal
+
 
 # Setup
 
@@ -7,6 +9,7 @@
 
 ## Project installation
 
+#### (Supprimer le package-lock.json)
 `yarn` or `npm install`
 
 ## Running
